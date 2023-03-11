@@ -6,8 +6,7 @@
           Welcome back
         </v-card-title>
         
-            </a>.
-          </p>
+            
           <p>
             Find a bug? Report it on the github <a
               href="https://github.com/vuetifyjs/vuetify/issues"
@@ -38,7 +37,7 @@
           >
             Nuxt GitHub
           </a>
-        </v-card-text>
+        
         <v-card-actions>
           <v-spacer />
           <v-btn
@@ -46,11 +45,10 @@
             nuxt
             to="/inspire"
           >
-            เข้าสู่หน้าหลัก
+            go to mainpage
           </v-btn>
         </v-card-actions>
       </v-card>
-    </v-col>
   </v-row>
 </template>
 
