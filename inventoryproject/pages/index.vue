@@ -46,7 +46,7 @@
             nuxt
             to="/inspire"
           >
-            เข้าสู่หน้าหลัก
+            go to main page
           </v-btn>
         </v-card-actions>
       </v-card>
